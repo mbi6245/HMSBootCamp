@@ -18,16 +18,14 @@ The command line is a text-based means of interacting with your computer. For th
 Git is a program used for version control. For the purposes of this bootcamp, you will use it to track changes you make to your files/code. See instructions below for your operating system.
 
 - MacOS
-  - You probably already have git installed! Move on for now and reference the following bullet if you see `git: command not found` when trying to use a git command
   - Opening **Terminal** will allow you to access the command line interface for your computer
+  - GOOD NEWS: You probably already have git installed! Move on for now and reference the following bullet if you see `git: command not found` when trying to use a git command
   - Open the **Terminal** app and type in `xcode-select -install` to install a suite of useful tools for programming, including git
 - Windows
   - Install git from the official [link](https://git-scm.com/download/win)
   - Opening **Git Bash** will allow you to access the command line interface on your computer
 
 ### Connecting to GitHub
-
-*Setup adapted from official GitHub documentation, feel free to follow these [steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) if you would like to do so instead*
 
 1. Sign up for a free GitHub account with this [link](https://github.com/signup).
 1. Open Git Bash
@@ -40,9 +38,9 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
     1. Write a title for the key (e.g. bootcampkey) in the **Title** text box
 1. Confirm correct setup of the key by running `ssh -T git@github.com` and see official GitHub [documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection) for the following steps.
 
-### Starting the Assignment
+*Setup adapted from official GitHub documentation, feel free to follow these [steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) if you would like to do so instead*
 
-*Adapted from this stackoverflow post, feel free to follow these [steps](https://stackoverflow.com/a/44076938) if you would like to do so instead*
+### Starting the Assignment
 
 1. Create a new repository at [github.com](https://github.com) by clicking the green **New** button.
     1. Fill in the **Repository name** box with: HMSBootCamp
@@ -55,3 +53,5 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
 1. Run `git remote add origin https://github.com/YOUR-ACCOUNT/HMSBootCamp.git`
 1. Run `git push origin main`
 <!-- 1. Run `git add .` followed by `git commit -m "initial commit"` -->
+
+*Adapted from this stackoverflow post, feel free to follow these [steps](https://stackoverflow.com/a/44076938) if you would like to do so instead*
