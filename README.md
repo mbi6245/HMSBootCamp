@@ -2,7 +2,7 @@
 
 ## Setup
 
-Frequent GitHub and command line users can skip to the "Starting the Assignment" section.
+Frequent GitHub and command line users can skip to the "Starting the Assignment" section. Once finished, see the
 
 ### Command Line Basics
 
