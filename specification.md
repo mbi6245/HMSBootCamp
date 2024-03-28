@@ -11,3 +11,24 @@ Everyone will come out with hands-on experience with statistics/R programming, a
 
 It's best to split the work up into multiple days. If you just went through the setup guide, take a break and come back tomorrow!
 
+If you're already proficient with GitHub and R programming, mainly focus on the content regarding how to write statistical analyses, contained in the slides for Day 4.
+
+## ChatGPT
+
+Use of ChatGPT is permitted, but not required for the completion of this assignment; it was designed with ChatGPT in mind. The vast majority of BIOST courses at UW follow similar policies, and focus on statistical interpretations instead
+
+## Schedule
+
+<!-- lets try to stay away from base r commands for now, mention ChatGPT is ok for code, but not for analysis -->
+
+1. Day 1: Basic git commands and Rstudio setup
+<!-- add, commit, push, replacing the lines in README since u dont need it anymore; install packages like tidyverse, regress -->
+1. Day 2: R Basics
+<!-- variable assignment in R, ?function to view documentation, steal data wrangling from Peng (import csv, NA strings, checking for NA, filter rows, rearrange rows, new col in df, save df as csv, bind_rows, group_split), but put it in the form of a question-->
+1. Day 3: Basic Statistics in R
+<!-- steal plotting (ggplot, assigning data, aes value for mapping param (color, size, alpha), labeling plot) from Peng, computing summary statistics -->
+1. Day 4: Regression in R
+<!-- take from BIOST514 hw4 q4 and combine with BIOST515 hw1 q2 for sure, maybe q4 and 5 -->
+
+# Assignment
+
