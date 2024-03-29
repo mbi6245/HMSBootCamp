@@ -25,6 +25,8 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
   - Install git from the official [link](https://git-scm.com/download/win)
   - Opening **Git Bash** will allow you to access the command line interface on your computer
 
+*At this point, open **Terminal** on MacOS or **Git Bash** on Windows and just try to navigate within a commonly used directory (e.g. Documents) using command line commands listed above!*
+
 ### Connecting to GitHub
 
 1. Sign up for a free GitHub account with this [link](https://github.com/signup).
@@ -33,7 +35,7 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
 1. Copy this unique key to your computer's clipboard by running...
     1. Windows: `cat ~/.ssh/id_rsa.pub | clip`
     1. MacOS: `pbcopy < ~.ssh/id_rsa.pub`
-1. Navigate to your [keys](https://github.com/settings/keys) and click **New SSH key**
+1. Navigate to your [keys](https://github.com/settings/keys) page and click **New SSH key**
     1. Paste into the **Key** text box
     1. Write a title for the key (e.g. bootcampkey) in the **Title** text box
 1. Confirm correct setup of the key by running `ssh -T git@github.com` and see official GitHub [documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection) for the following steps.
@@ -47,7 +49,10 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
     1. You may make the repository public
     1. DO NOT check **Add a README file**
     1. Click **Create Repository**
-1. Once you navigate to a directory you want to store this assignment's folder in (e.g. Documents), run `git clone git@github.com/mbi6245/HMSBootCamp.git` in the command line.
+1. Use the command line in your **Terminal** (MacOS) or **Git Bash** (Windows) to navigate to a directory you want to store this assignment's folder in (e.g. Documents), run `git clone git@github.com/mbi6245/HMSBootCamp.git` in the command line.
+
+    *TIP: refer to the above "Command Line" for instructions on how to `cd` into your desired directory*
+
 1. Run `cd HMSBootCamp`
 1. Run `git remote rename origin upstream`
 1. Run `git remote add origin https://github.com/YOUR-ACCOUNT/HMSBootCamp.git`

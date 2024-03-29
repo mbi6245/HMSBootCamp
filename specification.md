@@ -17,18 +17,33 @@ If you're already proficient with GitHub and R programming, mainly focus on the 
 
 Use of ChatGPT is permitted, but not required for the completion of this assignment; it was designed with ChatGPT in mind. The vast majority of BIOST courses at UW follow similar policies, and focus on statistical interpretations instead
 
+
+## Suggested Workflow
+
+- Each day you plan to work on this project, click one of the hyperlinks "Day X" below to take you to a slidedeck that will provide basic instruction on various parts of the assignment
+- Read through the slidedeck (feel free to experiment while doing so!) and once you hit a slide with red title text ("Question X"), go to the assignment
+- Do the corresponding question on the assignment and repeat!
+
 ## Schedule
 
 <!-- lets try to stay away from base r commands for now, mention ChatGPT is ok for code, but not for analysis -->
 
-1. Day 1: Basic git commands and Rstudio setup
-<!-- add, commit, push, replacing the lines in README since u dont need it anymore; install packages like tidyverse, regress -->
+1. [Day 1:](https://docs.google.com/presentation/d/1ZbkhEe2oIbKtkKZFMg64hnVnUX3RPu_eSJ1dRR2xslY/edit?usp=sharing) Basic git commands and Rstudio setup
+
+    add, commit, push, replacing the lines in README since u dont need it anymore; install packages like tidyverse, regress
 1. Day 2: R Basics
-<!-- variable assignment in R, ?function to view documentation, steal data wrangling from Peng (import csv, NA strings, checking for NA, filter rows, rearrange rows, new col in df, save df as csv, bind_rows, group_split), but put it in the form of a question-->
+
+    variable assignment in R, ?function to view documentation, borrow data wrangling from Peng (import csv, NA strings, checking for NA, filter rows, rearrange rows, new col in df, save df as csv, bind_rows, group_split), but put it in the form of a question
 1. Day 3: Basic Statistics in R
-<!-- steal plotting (ggplot, assigning data, aes value for mapping param (color, size, alpha), labeling plot) from Peng, computing summary statistics -->
+
+    borrow plotting (ggplot, assigning data, aes value for mapping param (color, size, alpha), labeling plot) from Peng, computing summary statistics
 1. Day 4: Regression in R
-<!-- take from BIOST514 hw4 q4 and combine with BIOST515 hw1 q2 for sure, maybe q4 and 5 -->
+
+    take format from BIOST514 hw4 q4 and combine with BIOST515 hw1 q2 for sure, maybe q4 and 5
 
 # Assignment
 
+In this assignment, you'll be analyzing some data from the the fev dataset, which is a commonly used dataset about lung function in children who are smokers and non-smokers.
+
+1. Question 1: edit the **README.md** file in this repository to be a brief description of the data analysis you hope to do in this assignment
+1. Question 2: install the `tidyverse` and `regress` functions within RStudio
