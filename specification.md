@@ -35,7 +35,7 @@ Use of ChatGPT is permitted, but not required for the completion of this assignm
 1. [Day 3:](https://docs.google.com/presentation/d/1CbUCN9RhhKkkofRPcjBPxe6D2AnutVX9RoX4jvBKadU/edit?usp=sharing) Descriptive Statistics and Plotting
 1. [Day 4:](https://docs.google.com/presentation/d/1ymt9pRfz-BL_83jhW0XJGVtkFKZB_TK1yr8xqxwRUXY/edit?usp=sharing) Regression in R
 
-    take format from BIOST514 hw4 q4 and combine with BIOST515 hw1 q2 for sure, maybe q4 and 5
+    take format from BIOST514 hw4 q4 and combine with BIOST515 hw1 q2 for sure, maybe q4 and 5, using the bodyfat dataset
 
 # Assignment
 
