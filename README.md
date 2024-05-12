@@ -42,7 +42,7 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
 
 *Setup adapted from official GitHub documentation, feel free to follow these [steps](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) if you would like to do so instead*
 
-### Starting the Assignment
+### Cloning Into Your Own Repository
 
 1. Create a new repository at [github.com](https://github.com) by clicking the green **New** button.
     1. Fill in the **Repository name** box with: HMSBootCamp
@@ -60,3 +60,15 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
 <!-- 1. Run `git add .` followed by `git commit -m "initial commit"` -->
 
 *Adapted from this stackoverflow post, feel free to follow these [steps](https://stackoverflow.com/a/44076938) if you would like to do so instead*
+
+### Installing R/RStudio and Starting the Assignment
+
+1. Navigate to the official RStudio [website](https://posit.co/download/rstudio-desktop/) and scroll down to the **DOWNLOAD AND INSTALL R** and **DOWNLOAD RSTUDIO DESKTOP** buttons; click both
+1. Run the downloaded R language installer; you should just accept all default options by continuing to hit the **Next** buttons until you reach **Finish** or **Install**
+1. Run the downloaded RStudio installer; you should also just accept all default options by continuing to hit the **Next** buttons until you reach **Finish** or **Install**
+1. Open Rstudio and hit the drop down menu pictured below to create a new .Rmd file (you may be prompted to install some packages, please do so) titled Data_Analysis
+
+    INCLUDE THE PICTURE SENT IN DISCORD DMS
+
+1. Ensure that the new .Rmd file is in the `HMSBootCamp` directory you created above by saving the file (CTRL + s for Windows or Cmd + s for MacOS) and clicking on the correct folder in the graphical user interface.
+1. See the `specification.md` for next steps

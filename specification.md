@@ -39,7 +39,8 @@ Use of ChatGPT is permitted, but not required for the completion of this assignm
 
 # Assignment
 
-In this assignment, you'll be analyzing some data from the the fev dataset, which is a commonly used dataset about lung function in children who are smokers and non-smokers.
+In this assignment, you'll be analyzing some data from the the bodyfat dataset, which is a dataset containing body measurements such as height, age, bodyfat percentage, and circumference measurements for a group of men. See the documentation in bodyfat.pdf for more info.
 
 1. Question 1: edit the **README.md** file in this repository to be a brief description of the data analysis you hope to do in this assignment
 1. Question 2: install the `tidyverse` and `regress` packages within RStudio
+1. Question 3: create a new .Rmd file 
