@@ -30,12 +30,8 @@ Use of ChatGPT is permitted, but not required for the completion of this assignm
 
 1. [Day 1:](https://docs.google.com/presentation/d/1ZbkhEe2oIbKtkKZFMg64hnVnUX3RPu_eSJ1dRR2xslY/edit?usp=sharing) Basic git commands and Rstudio setup
 1. [Day 2:](https://docs.google.com/presentation/d/1z-T-SRFQyL5lYsLgSDSbgguDmFFsyfDfnjsd_r4dUQY/edit?usp=sharing) R Basics and Data Wrangling
-
-    variable assignment in R, ?function to view documentation, borrow data wrangling from Peng (import csv, NA strings, checking for NA, filter rows, rearrange rows, new col in df, save df as csv, bind_rows, group_split), but put it in the form of a question
 1. [Day 3:](https://docs.google.com/presentation/d/1CbUCN9RhhKkkofRPcjBPxe6D2AnutVX9RoX4jvBKadU/edit?usp=sharing) Descriptive Statistics and Plotting
 1. [Day 4:](https://docs.google.com/presentation/d/1ymt9pRfz-BL_83jhW0XJGVtkFKZB_TK1yr8xqxwRUXY/edit?usp=sharing) Regression in R
-
-    take format from BIOST514 hw4 q4 and combine with BIOST515 hw1 q2 for sure, maybe q4 and 5, using the bodyfat dataset
 
 # Assignment
 
