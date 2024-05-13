@@ -66,9 +66,9 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
 1. Navigate to the official RStudio [website](https://posit.co/download/rstudio-desktop/) and scroll down to the **DOWNLOAD AND INSTALL R** and **DOWNLOAD RSTUDIO DESKTOP** buttons; click both
 1. Run the downloaded R language installer; you should just accept all default options by continuing to hit the **Next** buttons until you reach **Finish** or **Install**
 1. Run the downloaded RStudio installer; you should also just accept all default options by continuing to hit the **Next** buttons until you reach **Finish** or **Install**
-1. Open Rstudio and hit the drop down menu pictured below to create a new .Rmd file (you may be prompted to install some packages, please do so) titled Data_Analysis
+1. Open Rstudio and hit the drop down menu in the top left of your screen pictured below to create a new .Rmd file (you may be prompted to install some packages, please do so) titled Data_Analysis
 
-    INCLUDE THE PICTURE SENT IN DISCORD DMS
+    ![rmd creation visual](img/create_rmd.png)
 
 1. Ensure that the new .Rmd file is in the `HMSBootCamp` directory you created above by saving the file (CTRL + s for Windows or Cmd + s for MacOS) and clicking on the correct folder in the graphical user interface.
-1. See the `specification.md` for next steps
+1. See `specification.md` for next steps

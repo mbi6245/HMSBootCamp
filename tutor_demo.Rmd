@@ -15,6 +15,7 @@ fev = read_csv("fev.csv")
 # Regression Demo
 
 ```{r}
+lm(height ~ age, data = fev)
 regress("mean", height ~ age, data = fev)
 ```
 
