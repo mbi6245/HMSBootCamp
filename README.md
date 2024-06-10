@@ -31,7 +31,7 @@ Git is a program used for version control. For the purposes of this bootcamp, yo
 
 1. Sign up for a free GitHub account with this [link](https://github.com/signup).
 1. Open Git Bash
-1. Paste the following text into your command line `ssh-keygen -t rsa -b 4096 -C "your_email@example.com` and ***LEAVE THE FILE AND PASSPHRASE BLANK!*** Just hit enter for both.
+1. Paste the following text into your command line `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` and ***LEAVE THE FILE AND PASSPHRASE BLANK!*** Just hit enter for both.
 1. Copy this unique key to your computer's clipboard by running...
     1. Windows: `cat ~/.ssh/id_rsa.pub | clip`
     1. MacOS: `pbcopy < ~.ssh/id_rsa.pub`
